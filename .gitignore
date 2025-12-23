@@ -1,0 +1,30 @@
+# Rust
+target/
+Cargo.lock
+
+# Python (scraper)
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Project specific
+articles/
+output/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.opus
+frames/
+*.txt
+!stopwords.txt
+!requirements.txt

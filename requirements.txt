@@ -1,0 +1,5 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+Pillow>=10.0.0
+nltk>=3.8.0
+pymunk>=6.0.0
